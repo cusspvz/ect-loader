@@ -1,6 +1,6 @@
 {
   "name": "ect-loader",
-  "version": "1.0.0",
+  "version": "0.9.9",
   "description": "ect templates compiler for webpack",
   "main": "index.js",
   "scripts": {
