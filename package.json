@@ -1,0 +1,35 @@
+{
+  "name": "ect-loader",
+  "version": "1.0.0",
+  "description": "ect templates compiler for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusspvz/ect-loader.git"
+  },
+  "keywords": [
+    "ect",
+    "loader",
+    "webpack",
+    "compiler",
+    "template",
+    "cusspvz"
+  ],
+  "author": "José Moreira <jose.moreira@findhit.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cusspvz/ect-loader/issues"
+  },
+  "homepage": "https://github.com/cusspvz/ect-loader#readme",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "object.assign": "^4.0.1",
+    "qs": "^5.1.0"
+  },
+  "peerDependencies": {
+    "ect": "^0.5.9"
+  }
+}
